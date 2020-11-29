@@ -1,0 +1,5 @@
+OS info is 
+uname_result(system='Linux', node='sergey-pc', release='5.4.0-54-generic', version='#60-Ubuntu SMP Fri Nov 6 10:37:59 UTC 2020', machine='x86_64', processor='x86_64')
+
+Python version is 3.8.5 (default, Jul 28 2020, 12:59:40) 
+[GCC 9.3.0] ('64bit', 'ELF')
